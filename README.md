@@ -43,8 +43,8 @@ the user experience, and for that, I use agile methodologies to develop robust a
 
 <div align="center">
   <a href="https://github.com/hiag0liveira">
-  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
  
@@ -52,6 +52,8 @@ the user experience, and for that, I use agile methodologies to develop robust a
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hiag0liveira&&theme=highcontrast&show_icons=true)](https://git.io/streak-stats" /> 
  
  [![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hiag0liveira&theme=merko)](https://github.com/hiag0liveira/github-readme-activity-graph)
+ 
+ <hr>
  
   <br>
  <div align="center">
