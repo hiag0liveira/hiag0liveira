@@ -5,7 +5,7 @@ Hi, my name is Hiago and I am a Full Stack Developer with experience in Java. I 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-de-oliveira-mendes-520647212/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagoliv3ira@gmail.com)
 
- <br><br><br>
+ <br>
 
 
 
@@ -33,7 +33,7 @@ Hi, my name is Hiago and I am a Full Stack Developer with experience in Java. I 
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br><br><br>
+<br><br><hr>
 
 
 <div align="center">
