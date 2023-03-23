@@ -1,4 +1,4 @@
-# Hi, I'm Hiago Mendes!👋🏼👨🏽‍💻
+# Hi, I'm Hiago Mendes!👋🏼👦🏽
 
 <div>
  <img align="right" alt="devGif"  width="300" src="https://raw.githubusercontent.com/hiag0liveira/hiag0liveira/main/gifs/gifs-de-programador-29.gif">
@@ -36,10 +36,13 @@ the user experience, and for that, I use agile methodologies to develop robust a
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br><hr>
+<hr>
 
 <div align="center">
   <a href="https://github.com/hiag0liveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
+ 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hiag0liveira.hiag0liveira)
+
