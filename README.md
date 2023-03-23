@@ -1,11 +1,16 @@
 # Hi, I'm Hiago Mendes!👋🏼👨🏽‍💻
 
-Hi, my name is Hiago and I am a Full Stack Developer with experience in Java. I am passionate about creating solutions that improve the user experience, and for that, I use agile methodologies to develop robust and scalable applications. I have skills in both front-end and back-end, which allows me to create complete and integrated applications. I am always learning new technologies and seeking to improve my skills to create better solutions.
-
+<div>
+ <img align="right" alt="devGif"  width="300" src="https://raw.githubusercontent.com/hiag0liveira/hiag0liveira/main/gifs/gifs-de-programador-29.gif">
+Hi, my name is Hiago and I am a Full Stack Developer with experience in Java. I am passionate about creating solutions that improve 
+the user experience, and for that, I use agile methodologies to develop robust and scalable applications. I have skills in both front-end and back-end, which allows me to create complete and integrated applications. I am always learning new technologies and seeking to improve my skills to create better solutions.
+ </div>
+ 
+ <br>
+ 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-de-oliveira-mendes-520647212/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagoliv3ira@gmail.com)
 [![Discord Bage](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yCZ7AxBVbR)
-
  <br>
 
  ## 🔥 Technical abilities :
