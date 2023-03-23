@@ -43,7 +43,7 @@ the user experience, and for that, I use agile methodologies to develop robust a
 
 <div align="center">
   <a href="https://github.com/hiag0liveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  
