@@ -51,9 +51,6 @@ the user experience, and for that, I use agile methodologies to develop robust a
  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hiag0liveira&&theme=highcontrast&show_icons=true)](https://git.io/streak-stats" /> 
- 
- [![Kartikey's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hiag0liveira&theme=merko)](https://github.com/hiag0liveira/github-readme-activity-graph)
- 
  <hr>
  
   <br>
