@@ -43,17 +43,18 @@ the user experience, and for that, I use agile methodologies to develop robust a
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
 <!--  -->
-<div align="center">
-  <a href="https://github.com/hiag0liveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
-
+<details>
+  <summary><h3>📌 Github Stats</h3></summary>
+  <div align="center">
+    <a href="https://github.com/hiag0liveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
+  </div>
  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hiag0liveira&&theme=highcontrast&show_icons=true)](https://git.io/streak-stats" /> 
- <hr>
- 
+ <p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=hiag0liveira&&theme=highcontrast&show_icons=true)](https://git.io/streak-stats" /> 
+  <hr>
+ </details>
   <br>
  <div align="center">
  <img alt="VisitorBadge" width="150" src="https://visitor-badge.laobi.icu/badge?page_id=hiag0liveira.hiag0liveira">
