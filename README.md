@@ -53,7 +53,7 @@ the user experience, and for that, I use agile methodologies to develop robust a
   </div>
  
   <p align="center">
-  img src="https://github-readme-streak-stats.herokuapp.com?user=hiag0liveira&&theme=highcontrast&show_icons=true)](https://git.io/streak-stats" /> 
+  img src="https://github-readme-streak-stats.herokuapp.com?user=hiag0liveira&&theme=highcontrast&show_icons=true)(https://git.io/streak-stats" /> 
   <hr>
 </details>
 <br>
