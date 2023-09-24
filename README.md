@@ -10,7 +10,7 @@ the user experience, and for that, I use agile methodologies to develop robust a
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-de-oliveira-mendes-520647212/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hiagoliv3ira@gmail.com)
-[![Discord Bage](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yCZ7AxBVbR)
+
  <br>
 
  ## 🔥 Technical abilities :
