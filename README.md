@@ -48,8 +48,8 @@ the user experience, and for that, I use agile methodologies to develop robust a
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <div align="center">
     <a href="https://github.com/hiag0liveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiag0liveira&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />  -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiag0liveira&layout=compact&langs_count=7&theme=highcontrast"/> 
   </div>
  
   <p align="center">
