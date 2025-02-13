@@ -2,8 +2,15 @@
 
 <div>
  <img align="right" alt="devGif"  width="300" src="https://raw.githubusercontent.com/hiag0liveira/hiag0liveira/main/gifs/gifs-de-programador-29.gif">
-Hi, my name is Hiago and I am a Full Stack Developer with experience in Java. I am passionate about creating solutions that improve 
-the user experience, and for that, I use agile methodologies to develop robust and scalable applications. I have skills in both front-end and back-end, which allows me to create complete and integrated applications. I am always learning new technologies and seeking to improve my skills to create better solutions.
+I am a **Full Stack Developer** currently pursuing a **Bachelor’s degree in Information Systems** at the **Instituto Federal Fluminense (IFF)**. I am in my **seventh semester**, with an expected graduation in **January 2026**.
+
+I work at **LRGE Systems**, where I participate in the **development and maintenance of technological solutions** for various clients. I have experience in **web and mobile system development**, working with technologies such as **PHP with Laravel, Java, C#, React Native, React, and NestJS**. My main responsibilities include implementing new features, integrating APIs, optimizing performance, and continuously improving applications. I collaborate closely with cross-functional teams, ensuring efficient solutions that align with clients' needs.
+
+**LRGE Systems** specializes in the **development, customization, and enhancement of systems and digital tools**, covering **embedded systems, web solutions, and distributed applications**, serving **large and medium-sized companies**.
+
+In addition to my professional experience, I am also involved in a **part-time internship** at my university, where I work on **back-end development** for an application using **NestJS**.
+
+I have **strong knowledge of Domain-Driven Design (DDD), data structures, and algorithms**, as well as practical experience in developing **scalable and high-performance applications**. I enjoy **technical challenges, learning new technologies, and contributing to innovative projects** that positively impact both corporate environments and end users.
  </div>
  
  <br>
