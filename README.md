@@ -2,7 +2,7 @@
 
 <div>
  <img align="right" alt="devGif"  width="300" src="https://raw.githubusercontent.com/hiag0liveira/hiag0liveira/main/gifs/gifs-de-programador-29.gif">
-I am a **Full Stack Developer** currently pursuing a **Bachelor’s degree in Information Systems** at the **Instituto Federal Fluminense (IFF)**. I am in my **seventh semester**, with an expected graduation in **January 2026**.
+I am a Full Stack Developer currently pursuing a Bachelor’s degree in Information Systems at the Instituto Federal Fluminense (IFF). I am in my seventh semester, with an expected graduation in January 2026.
 
 I work at **LRGE Systems**, where I participate in the **development and maintenance of technological solutions** for various clients. I have experience in **web and mobile system development**, working with technologies such as **PHP with Laravel, Java, C#, React Native, React, and NestJS**. My main responsibilities include implementing new features, integrating APIs, optimizing performance, and continuously improving applications. I collaborate closely with cross-functional teams, ensuring efficient solutions that align with clients' needs.
 
