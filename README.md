@@ -2,15 +2,14 @@
 
 <div>
  <img align="right" alt="devGif"  width="300" src="https://raw.githubusercontent.com/hiag0liveira/hiag0liveira/main/gifs/gifs-de-programador-29.gif">
-I am a Full Stack Developer currently pursuing a Bachelor’s degree in Information Systems at the Instituto Federal Fluminense (IFF). I am in my seventh semester, with an expected graduation in January 2026.
+I am a Full Stack Developer with around 2.5 years of experience, focusing on Back-end development using Java (Spring Boot) and microservices architecture. I am currently in the 7th semester of my Information Systems degree at IFF, expected to graduate in October 2025.  
 
-I work at **LRGE Systems**, where I participate in the **development and maintenance of technological solutions** for various clients. I have experience in **web and mobile system development**, working with technologies such as **PHP with Laravel, Java, C#, React Native, React, and NestJS**. My main responsibilities include implementing new features, integrating APIs, optimizing performance, and continuously improving applications. I collaborate closely with cross-functional teams, ensuring efficient solutions that align with clients' needs.
+I work on developing RESTful APIs, following principles such as Clean Code, SOLID, and documentation with Swagger. I have experience with Java, Spring Boot, C#, PHP with Laravel, NestJS (Node.js), TypeScript, React, React Native, and databases like PostgreSQL, MySQL, and MongoDB.  
 
-**LRGE Systems** specializes in the **development, customization, and enhancement of systems and digital tools**, covering **embedded systems, web solutions, and distributed applications**, serving **large and medium-sized companies**.
+Throughout my career, I have actively participated in projects involving process automation, system integration, and document analysis, in both corporate and academic environments. At the Polo de Inovação Campos dos Goytacazes (PICG), I developed solutions focused on intelligent automation, integrating APIs for Artificial Intelligence, machine learning, and computer vision, always aiming for efficiency and technological innovation.  
 
-In addition to my professional experience, I am also involved in a **part-time internship** at my university, where I work on **back-end development** for an application using **NestJS**.
+I am seeking an opportunity as a Junior Developer where I can apply my skills, continuously learn, and contribute valuable solutions to the company.
 
-I have **strong knowledge of Domain-Driven Design (DDD), data structures, and algorithms**, as well as practical experience in developing **scalable and high-performance applications**. I enjoy **technical challenges, learning new technologies, and contributing to innovative projects** that positively impact both corporate environments and end users.
  </div>
  
  <br>
