@@ -49,7 +49,7 @@ I am seeking an opportunity as a Junior Developer where I can apply my skills, c
 
 <!--  -->
 <details>
-  <summary><h3>📌 Github Stats</h3></summary>
+  <summary><h3>📌 Github Stats </h3></summary>
   <p align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
   <div align="center">
